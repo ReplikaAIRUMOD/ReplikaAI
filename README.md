@@ -25,8 +25,8 @@ Run in the repository folder:
 
 ## GNU/Linux
 
-<code>python replika.py</code>
+<code>python3 replika.py</code>
 
 ## Windows
 
-<code>python3 replika.py</code>
+<code>python replika.py</code>
