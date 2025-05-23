@@ -15,6 +15,7 @@ It's a python script that originally created by Axlfc. This script allows you to
 pkg install firefox geckodriver
 exit
 pip install selenium colorama python-dotenv</code>
+
 (avoid running pip as root, that's why you need to type "exit")
 
 # Usage:
