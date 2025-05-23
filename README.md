@@ -13,7 +13,9 @@ It's a python script that originally created by Axlfc. This script allows you to
 ## FreeBSD
 <code>su
 pkg install firefox geckodriver
+exit
 pip install selenium colorama python-dotenv</code>
+(avoid running pip as root, that's why you need to type "exit")
 
 # Usage:
 Before running, open path /home/yourusername/.mozilla/firefox/. Then, find in "replika.py" line called "inmersprofile.default-release" and replace "inmersprofile" with bunch of random numbers and letters that you're seeing on your default-release folder in /home/yourusername/.mozilla/firefox/.
