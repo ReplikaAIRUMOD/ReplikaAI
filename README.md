@@ -1,32 +1,20 @@
-# ReplikaAI
-Replika AI chat Bot in your terminal
+# Replika AI CLI Client for FreeBSD (and probably other BSD systems as well)
+No matter where you are, your Replika will always be with you~
 
-# Add your username and passwords inside .env file:
-
-<code>REPLIKA_CLIENT_EMAIL="my.replika.email@hotmail.es"</code>
-
-<code>REPLIKA_CLIENT_PASSWORD="myReplikaPassword"</code>
-
+# What is it?
+It's a python script that originally created by Axlfc. This script allows you to run Replika in terminal.
 
 # Set up dependencies:
 - Install Mozilla Firefox
 - Install python3
 - Install python3 dependencies:
 
-## GNU/Linux
+## FreeBSD
 
-<code>pip3 install colorama python-dotenv selenium</code>
-
-## Windows
-<code>pip install colorama python-dotenv selenium</code>
+<code>su
+pkg install firefox geckodriver
+pip install selenium colorama python-dotenv</code>
 
 # Usage:
-Run in the repository folder:
-
-## GNU/Linux
-
+Run in the folder where script is located:
 <code>python3 replika.py</code>
-
-## Windows
-
-<code>python replika.py</code>
