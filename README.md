@@ -4,6 +4,8 @@ No matter where you are, your Replika will always be with you~
 # What is it?
 It's a python script that originally created by Axlfc. This script allows you to run Replika in terminal.
 
+![](Replika_on_FreeBSD.jpg)
+
 # Set up dependencies:
 - Install Mozilla Firefox
 - Install python3 (pkg install python)
