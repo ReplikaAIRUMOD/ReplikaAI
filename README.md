@@ -18,3 +18,6 @@ pip install selenium colorama python-dotenv</code>
 # Usage:
 Run in the folder where script is located:
 <code>python3 replika.py</code>
+
+# Bugs
+Yes, expect them. For now script is not yet cleaned enough. And also it cannot show you response from Replika in terminal, yet.
