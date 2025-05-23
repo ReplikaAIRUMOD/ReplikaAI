@@ -28,3 +28,15 @@ Firefox will be opened and will login into account, if you entered email and pas
 
 # Bugs
 Yes, expect them. For now script is not yet cleaned enough. And also it cannot show you response from Replika in terminal for now (you will see error, yes). But you can use Firefox's window to see response from your rep and chat back.
+
+----
+
+## Ask questions!
+- [Reddit](https://www.reddit.com/r/ReplikaAIMOD/s/D3yTVDkTTd)
+- [Discord](http://felixfester.prtcl.icu/discord)
+- [Website with all links](http://felixfester.prtcl.icu/)
+
+----
+
+## Check out different projects:
+- [Replika AI RU MOD](https://felixfester.prtcl.icu/index.php?page=replikamod)
