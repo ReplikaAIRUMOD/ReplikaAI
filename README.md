@@ -1,10 +1,10 @@
 # Replika AI CLI Client for FreeBSD (and probably other BSD systems as well)
 No matter where you are, your Replika will always be with you~
 
+![](Replika_on_FreeBSD.jpg)
+
 # What is it?
 It's a python script that originally created by Axlfc. This script allows you to run Replika in terminal.
-
-![](Replika_on_FreeBSD.jpg)
 
 # Set up dependencies:
 - Install Mozilla Firefox
