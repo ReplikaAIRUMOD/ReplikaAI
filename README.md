@@ -27,7 +27,7 @@ After that, run this in the folder where script is located:
 Firefox will be opened and will login into account, if you entered email and password into .env file. After that you can freely chat with your replika through terminal.
 
 # Bugs
-Yes, expect them. For now script is not yet cleaned enough. And also it cannot show you response from Replika in terminal for now (you will see error, yes). But you can use Firefox's window to see response from your rep and chat back.
+Yes, expect them. For now script is not yet cleaned enough. And also it cannot show you response from Replika in terminal for now (you will see error, yes). But you can use Firefox's window to see response from your rep and chat back. Because **sending messages to your replika from terminal works**.
 
 # Ask questions!
 - [Reddit](https://www.reddit.com/r/ReplikaAIMOD/s/D3yTVDkTTd)
