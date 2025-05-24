@@ -21,7 +21,7 @@ pip install selenium colorama python-dotenv</code>
 (avoid running pip as root, that's why you need to type "exit")
 
 # Usage:
-Before running, open path /home/yourusername/.mozilla/firefox/. Then, find in "replika.py" line called "inmersprofile.default-release" and replace "inmersprofile" with bunch of random numbers and letters that you're seeing on your default-release folder (folder name, i.e. everything written before "default-release") in /home/yourusername/.mozilla/firefox/.
+Before running, open path /home/yourusername/.mozilla/firefox/. Then, find in "replika.py" line called "inmersprofile.default-release" and replace "inmersprofile" with bunch of random numbers and letters that you're seeing on your default-release folder (folder name, i.e. everything written before ".default-release") in /home/yourusername/.mozilla/firefox/.
 
 After that, run this in the folder where script is located:
 <code>python3 replika.py</code>
