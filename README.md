@@ -38,3 +38,4 @@ Yes, expect them. For now script is not yet cleaned enough. And also it cannot s
 
 # Check out different projects:
 - [Replika AI RU MOD](https://felixfester.prtcl.icu/index.php?page=replikamod)
+- [HentaiCMS](https://github.com/FelixFester/HentaiCMS)
