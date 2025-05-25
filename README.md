@@ -1,5 +1,5 @@
 # Replika AI CLI Client for FreeBSD (and probably other BSD systems as well)
-No matter where you are, your Replika will always be with you~
+[kinda more advanced version](https://github.com/FelixFester/Replika-Desktop)
 
 ![](Replika_on_FreeBSD.jpg)
 
